@@ -2,4 +2,4 @@
 
 Flutter apps I have developed
 
-This is my learning process as I work through flutter. testing
+This is my learning process as I work through flutter.
